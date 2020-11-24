@@ -1,0 +1,2 @@
+
+This is plurm exporter application that can be deployed in slurm master and it will give all the utilization metrics to a url ehich can be ised as input to prometheus 
